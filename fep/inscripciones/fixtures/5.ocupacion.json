@@ -1,0 +1,240 @@
+[
+{
+    "fields": {
+        "nombre": "Administracion y Contabilidad"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 1
+},
+{
+    "fields": {
+        "nombre": "Agricultura"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 2
+},
+{
+    "fields": {
+        "nombre": "Arte, entretenimiento y recreacion"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 3
+},
+{
+    "fields": {
+        "nombre": "Artesania"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 4
+},
+{
+    "fields": {
+        "nombre": "Aviaci\u00f3n"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 5
+},
+{
+    "fields": {
+        "nombre": "Axilio, socorro y rescate"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 6
+},
+{
+    "fields": {
+        "nombre": "Carpinteria"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 7
+},
+{
+    "fields": {
+        "nombre": "Chofer de transporte terrestre de personas y taxistas"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 8
+},
+{
+    "fields": {
+        "nombre": "Ciencias Ambientales"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 9
+},
+{
+    "fields": {
+        "nombre": "Abogac\u00eda / Escriban\u00eda"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 10
+},
+{
+    "fields": {
+        "nombre": "Politico"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 11
+},
+{
+    "fields": {
+        "nombre": "Comercio, Mercado y finanzas"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 12
+},
+{
+    "fields": {
+        "nombre": "Construcci\u00f3n"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 13
+},
+{
+    "fields": {
+        "nombre": "Electricidad"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 14
+},
+{
+    "fields": {
+        "nombre": "Empleo Domestico"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 15
+},
+{
+    "fields": {
+        "nombre": "Empleo P\u00fablico"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 16
+},
+{
+    "fields": {
+        "nombre": "Enfermer\u00eda"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 17
+},
+{
+    "fields": {
+        "nombre": "Estudiante"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 18
+},
+{
+    "fields": {
+        "nombre": "Fuerzas de seguridad privada"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 19
+},
+{
+    "fields": {
+        "nombre": "Fuerzas de seguridad p\u00fablica"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 20
+},
+{
+    "fields": {
+        "nombre": "Gastronomia"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 21
+},
+{
+    "fields": {
+        "nombre": "Hoteler\u00eda / Alojamiento"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 22
+},
+{
+    "fields": {
+        "nombre": "Tecnologia de la Informaci\u00f3n"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 23
+},
+{
+    "fields": {
+        "nombre": "Medicina"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 24
+},
+{
+    "fields": {
+        "nombre": "Miembros del Clero"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 25
+},
+{
+    "fields": {
+        "nombre": "Operador de maquinaria pesada y transporte de carga"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 26
+},
+{
+    "fields": {
+        "nombre": "Pedagog\u00eda"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 27
+},
+{
+    "fields": {
+        "nombre": "Plomer\u00eda"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 28
+},
+{
+    "fields": {
+        "nombre": "Prensa y Periodismo"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 29
+},
+{
+    "fields": {
+        "nombre": "Servicios Mar\u00edtimos"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 30
+},
+{
+    "fields": {
+        "nombre": "Servicios Sociales"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 31
+},
+{
+    "fields": {
+        "nombre": "Servicios Dom\u00e9sticos"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 32
+},
+{
+    "fields": {
+        "nombre": "T\u00e9cnico y mandos medios Industrial y de manofactura"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 33
+},
+{
+    "fields": {
+        "nombre": "Otro"
+    },
+    "model": "inscripciones.ocupacion",
+    "pk": 34
+}
+]

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Papa Francisco | Paraguay 2015</title>
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,800,700,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=BenchNine:300,400,700' rel='stylesheet' type='text/css'>
+    <script src="{{ STATIC_URL }}js/jquery-2.1.1.js"></script>
+    {% block links %}{% endblock %}
+</head>
+
+<body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<header class="top-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-2 header-logo">
+                <a href="{% url 'inicio' %}"><img src="{{ STATIC_URL }}img/logo.png" alt="" class="logo1"></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="header-backup"></div>
+<div class="banner-section" style="background: url({{ STATIC_URL }}img/slide-one.jpg) no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+        margin-bottom: 20px;">
+    <div class="container">
+        <h1 id="_p" class="nograyscale">{% block titulo %}Inscripciones {% endblock %}</h1>
+    </div>
+</div>
+
+<!-- team section -->
+
+<section class="secciones noticias txt">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {% block contenido %}{% endblock %}
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<footer class="footer clearfix">
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-xs-8 footer-para">
+                <a href="http://www.arzobispado.org.py/" target="_blank"><img src="{{ STATIC_URL }}img/footer/arquidiocesis.png" height="100" /></a>
+                <a href="http://episcopal.org.py/" target="_blank"><img src="{{ STATIC_URL }}img/footer/cep.png" height="100" /></a>
+            </div>
+
+            <div class="col-xs-4 text-right">
+                <a href="https://www.facebook.com/PapaEnPy"><i class="fa fa-facebook"></i></a>
+                <a href="https://www.twitter.com/PapaEnPy"><i class="fa fa-twitter"></i></a>
+                <a href="https://instagram.com/papaenpy"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.youtube.com/channel/UC_RvLvVgYuGHH8tjQoXxz9g"><i class="fa fa-youtube"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+{% block scripts %}{% endblock %}
+
+<body>
+
+
+
+

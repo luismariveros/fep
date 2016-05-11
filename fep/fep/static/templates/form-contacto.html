@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load bootstrap3 %}
+
+{% block titulo %}Contacto{% endblock %}
+{% block contenido %}
+    {% bootstrap_messages MENSAJE %}
+    <form id="formulario" method="post" action="" class="form-horizontal">
+        {% csrf_token %}
+        {% bootstrap_form form layout="horizontal" %}
+        {% buttons %}
+            <button type="submit" class="btn btn-default">Enviar</button>
+        {% endbuttons %}
+    </form>
+
+{% endblock %}

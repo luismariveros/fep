@@ -1,0 +1,1778 @@
+[
+{
+    "fields": {
+        "nombre": "25 de Diciembre",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 1
+},
+{
+    "fields": {
+        "nombre": "3 de Febrero",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 2
+},
+{
+    "fields": {
+        "nombre": "Aba\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 3
+},
+{
+    "fields": {
+        "nombre": "Acahay",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 4
+},
+{
+    "fields": {
+        "nombre": "Alberdi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 5
+},
+{
+    "fields": {
+        "nombre": "Alto Ver\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 6
+},
+{
+    "fields": {
+        "nombre": "Altos",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 7
+},
+{
+    "fields": {
+        "nombre": "Antequera",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 8
+},
+{
+    "fields": {
+        "nombre": "Aregu\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 9
+},
+{
+    "fields": {
+        "nombre": "Arroyos y Esteros",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 10
+},
+{
+    "fields": {
+        "nombre": "Asunci\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 11
+},
+{
+    "fields": {
+        "nombre": "Atyr\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 12
+},
+{
+    "fields": {
+        "nombre": "Ayolas",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 13
+},
+{
+    "fields": {
+        "nombre": "Bel\u00e9n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 14
+},
+{
+    "fields": {
+        "nombre": "Bella Vista",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 15
+},
+{
+    "fields": {
+        "nombre": "Bella Vista del Norte",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 16
+},
+{
+    "fields": {
+        "nombre": "Benjam\u00edn Aceval",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 17
+},
+{
+    "fields": {
+        "nombre": "Borja",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 18
+},
+{
+    "fields": {
+        "nombre": "Buena Vista",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 19
+},
+{
+    "fields": {
+        "nombre": "Caacup\u00e9",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 20
+},
+{
+    "fields": {
+        "nombre": "Caacup\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 21
+},
+{
+    "fields": {
+        "nombre": "Caaguaz\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 22
+},
+{
+    "fields": {
+        "nombre": "Caaguaz\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 23
+},
+{
+    "fields": {
+        "nombre": "Caazap\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 24
+},
+{
+    "fields": {
+        "nombre": "Caballero",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 25
+},
+{
+    "fields": {
+        "nombre": "Cambyret\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 26
+},
+{
+    "fields": {
+        "nombre": "Capiat\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 27
+},
+{
+    "fields": {
+        "nombre": "Capibary",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 28
+},
+{
+    "fields": {
+        "nombre": "Capit\u00e1n Bado",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 29
+},
+{
+    "fields": {
+        "nombre": "Capit\u00e1n Mauricio Jos\u00e9 Troche",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 30
+},
+{
+    "fields": {
+        "nombre": "Capit\u00e1n Meza",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 31
+},
+{
+    "fields": {
+        "nombre": "Capit\u00e1n Miranda",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 32
+},
+{
+    "fields": {
+        "nombre": "Caraguatay",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 33
+},
+{
+    "fields": {
+        "nombre": "Carapegu\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 34
+},
+{
+    "fields": {
+        "nombre": "Caraya\u00f3",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 35
+},
+{
+    "fields": {
+        "nombre": "Carlos Antonio L\u00f3pez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 36
+},
+{
+    "fields": {
+        "nombre": "Carmen del Paran\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 37
+},
+{
+    "fields": {
+        "nombre": "Cerrito",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 38
+},
+{
+    "fields": {
+        "nombre": "Chor\u00e9",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 39
+},
+{
+    "fields": {
+        "nombre": "Ciudad del Este",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 40
+},
+{
+    "fields": {
+        "nombre": "Concepci\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 41
+},
+{
+    "fields": {
+        "nombre": "Coronel Bogado",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 42
+},
+{
+    "fields": {
+        "nombre": "Coronel Martinez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 43
+},
+{
+    "fields": {
+        "nombre": "Coronel Oviedo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 44
+},
+{
+    "fields": {
+        "nombre": "Corpus Christi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 45
+},
+{
+    "fields": {
+        "nombre": "Desmochados",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 46
+},
+{
+    "fields": {
+        "nombre": "Doctor Botrell",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 47
+},
+{
+    "fields": {
+        "nombre": "Domingo Mart\u00ednez de Irala",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 48
+},
+{
+    "fields": {
+        "nombre": "Dr. Cecilio B\u00e1ez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 49
+},
+{
+    "fields": {
+        "nombre": "Dr. J. Eulogio Estigarribia",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 50
+},
+{
+    "fields": {
+        "nombre": "Dr. Juan Le\u00f3n Mallorqu\u00edn",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 51
+},
+{
+    "fields": {
+        "nombre": "Dr. Juan Manuel Frutos",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 52
+},
+{
+    "fields": {
+        "nombre": "Dr. Moises S. Bertoni",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 53
+},
+{
+    "fields": {
+        "nombre": "Edelira",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 54
+},
+{
+    "fields": {
+        "nombre": "Emboscada",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 55
+},
+{
+    "fields": {
+        "nombre": "Encarnaci\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 56
+},
+{
+    "fields": {
+        "nombre": "Escobar",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 57
+},
+{
+    "fields": {
+        "nombre": "Eusebio Ayala",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 58
+},
+{
+    "fields": {
+        "nombre": "F\u00e9lix P\u00e9rez Cardozo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 59
+},
+{
+    "fields": {
+        "nombre": "Fernando de la Mora",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 60
+},
+{
+    "fields": {
+        "nombre": "Fram",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 61
+},
+{
+    "fields": {
+        "nombre": "Francisco Caballero Alvarez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 62
+},
+{
+    "fields": {
+        "nombre": "Fuerte Olimpo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 63
+},
+{
+    "fields": {
+        "nombre": "General Elizardo Aquino",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 64
+},
+{
+    "fields": {
+        "nombre": "General Eugerio A. Garay",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 65
+},
+{
+    "fields": {
+        "nombre": "General Francisco I.",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 66
+},
+{
+    "fields": {
+        "nombre": "Gral. Artigas",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 67
+},
+{
+    "fields": {
+        "nombre": "Gral. Delgado",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 68
+},
+{
+    "fields": {
+        "nombre": "Gral. Higinio Mor\u00ednigo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 69
+},
+{
+    "fields": {
+        "nombre": "Gral. Jos\u00e9 E. D\u00edaz",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 70
+},
+{
+    "fields": {
+        "nombre": "Guajayvi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 71
+},
+{
+    "fields": {
+        "nombre": "Guarambar\u00e9",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 72
+},
+{
+    "fields": {
+        "nombre": "Guaz\u00fa Cu\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 73
+},
+{
+    "fields": {
+        "nombre": "Hernandarias",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 74
+},
+{
+    "fields": {
+        "nombre": "Hohenau",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 75
+},
+{
+    "fields": {
+        "nombre": "Horqueta",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 76
+},
+{
+    "fields": {
+        "nombre": "Humait\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 77
+},
+{
+    "fields": {
+        "nombre": "Independencia",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 78
+},
+{
+    "fields": {
+        "nombre": "Iru\u00f1a",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 79
+},
+{
+    "fields": {
+        "nombre": "Isla Puc\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 80
+},
+{
+    "fields": {
+        "nombre": "Isla Umb\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 81
+},
+{
+    "fields": {
+        "nombre": "It\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 82
+},
+{
+    "fields": {
+        "nombre": "Itacurub\u00ed de la Cordillera",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 83
+},
+{
+    "fields": {
+        "nombre": "Itacurub\u00ed del Rosario",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 84
+},
+{
+    "fields": {
+        "nombre": "Itagu\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 85
+},
+{
+    "fields": {
+        "nombre": "Itakyry",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 86
+},
+{
+    "fields": {
+        "nombre": "Itanar\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 87
+},
+{
+    "fields": {
+        "nombre": "Itap\u00faa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 88
+},
+{
+    "fields": {
+        "nombre": "Itap\u00faa Poty",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 89
+},
+{
+    "fields": {
+        "nombre": "Iturbe",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 90
+},
+{
+    "fields": {
+        "nombre": "Jes\u00fas",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 91
+},
+{
+    "fields": {
+        "nombre": "Jos\u00e9 Augusto Saldivar",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 92
+},
+{
+    "fields": {
+        "nombre": "Jos\u00e9 Domingo Ocampos",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 93
+},
+{
+    "fields": {
+        "nombre": "Jos\u00e9 Fassardi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 94
+},
+{
+    "fields": {
+        "nombre": "Jos\u00e9 Leandro Oviedo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 95
+},
+{
+    "fields": {
+        "nombre": "Juan de Mena",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 96
+},
+{
+    "fields": {
+        "nombre": "Juan Emilio Oleary",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 97
+},
+{
+    "fields": {
+        "nombre": "Katuete",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 98
+},
+{
+    "fields": {
+        "nombre": "La Colmena",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 99
+},
+{
+    "fields": {
+        "nombre": "La Paloma",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 100
+},
+{
+    "fields": {
+        "nombre": "La Pastora",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 101
+},
+{
+    "fields": {
+        "nombre": "La paz",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 102
+},
+{
+    "fields": {
+        "nombre": "Lambar\u00e9",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 103
+},
+{
+    "fields": {
+        "nombre": "Laureles",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 104
+},
+{
+    "fields": {
+        "nombre": "Lima",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 105
+},
+{
+    "fields": {
+        "nombre": "Limpio",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 106
+},
+{
+    "fields": {
+        "nombre": "Loma Grande",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 107
+},
+{
+    "fields": {
+        "nombre": "Loreto",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 108
+},
+{
+    "fields": {
+        "nombre": "Los Cedrales",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 109
+},
+{
+    "fields": {
+        "nombre": "Luque",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 110
+},
+{
+    "fields": {
+        "nombre": "Maciel",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 111
+},
+{
+    "fields": {
+        "nombre": "Mariano Roque Alonso",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 112
+},
+{
+    "fields": {
+        "nombre": "Mayor Jos\u00e9 Dejes\u00fas Mart\u00ednez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 113
+},
+{
+    "fields": {
+        "nombre": "Mayor Julio D. Ota\u00f1o",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 114
+},
+{
+    "fields": {
+        "nombre": "Mbaracay\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 115
+},
+{
+    "fields": {
+        "nombre": "Mbocayaty del Guair\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 116
+},
+{
+    "fields": {
+        "nombre": "Mbocayaty del Yhaguy",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 117
+},
+{
+    "fields": {
+        "nombre": "Mbuyapey",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 118
+},
+{
+    "fields": {
+        "nombre": "Mcal. Francisco Solano L\u00f3pez",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 119
+},
+{
+    "fields": {
+        "nombre": "Mcal. Jos\u00e9 F\u00e9lix Estigarribia",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 120
+},
+{
+    "fields": {
+        "nombre": "Minga Guaz\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 121
+},
+{
+    "fields": {
+        "nombre": "Minga Por\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 122
+},
+{
+    "fields": {
+        "nombre": "Nanawa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 123
+},
+{
+    "fields": {
+        "nombre": "Naranjal",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 124
+},
+{
+    "fields": {
+        "nombre": "Natalicio Talavera",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 125
+},
+{
+    "fields": {
+        "nombre": "Natalio",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 126
+},
+{
+    "fields": {
+        "nombre": "Nueva Alborada",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 127
+},
+{
+    "fields": {
+        "nombre": "Nueva Colombia",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 128
+},
+{
+    "fields": {
+        "nombre": "Nueva Esperanza",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 129
+},
+{
+    "fields": {
+        "nombre": "Nueva Germania",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 130
+},
+{
+    "fields": {
+        "nombre": "Nueva Italia",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 131
+},
+{
+    "fields": {
+        "nombre": "Nuevas Londres",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 132
+},
+{
+    "fields": {
+        "nombre": "\u00d1acunday",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 133
+},
+{
+    "fields": {
+        "nombre": "\u00d1emby",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 134
+},
+{
+    "fields": {
+        "nombre": "\u00d1umi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 135
+},
+{
+    "fields": {
+        "nombre": "Obligado",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 136
+},
+{
+    "fields": {
+        "nombre": "Paraguar\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 137
+},
+{
+    "fields": {
+        "nombre": "Paso de Patria",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 138
+},
+{
+    "fields": {
+        "nombre": "Paso Yobai",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 139
+},
+{
+    "fields": {
+        "nombre": "Pedro Juan Caballero",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 140
+},
+{
+    "fields": {
+        "nombre": "Pilar",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 141
+},
+{
+    "fields": {
+        "nombre": "Pirap\u00f3",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 142
+},
+{
+    "fields": {
+        "nombre": "Piray\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 143
+},
+{
+    "fields": {
+        "nombre": "Piribebuy",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 144
+},
+{
+    "fields": {
+        "nombre": "Presidente Franco",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 145
+},
+{
+    "fields": {
+        "nombre": "Primero de Marzo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 146
+},
+{
+    "fields": {
+        "nombre": "Puerto Casado",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 147
+},
+{
+    "fields": {
+        "nombre": "Puerto Jos\u00e9 Falc\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 148
+},
+{
+    "fields": {
+        "nombre": "Puerto Pinasco",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 149
+},
+{
+    "fields": {
+        "nombre": "Quiindy",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 150
+},
+{
+    "fields": {
+        "nombre": "Quyquyh\u00f3",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 151
+},
+{
+    "fields": {
+        "nombre": "R.I. 3 Corrales",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 152
+},
+{
+    "fields": {
+        "nombre": "Ra\u00fal Arsenio Oviedo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 153
+},
+{
+    "fields": {
+        "nombre": "Repatriaci\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 154
+},
+{
+    "fields": {
+        "nombre": "Salto del Guair\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 155
+},
+{
+    "fields": {
+        "nombre": "San Alberto",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 156
+},
+{
+    "fields": {
+        "nombre": "San Antonio",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 157
+},
+{
+    "fields": {
+        "nombre": "San Bernardino",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 158
+},
+{
+    "fields": {
+        "nombre": "San Cosme y Dami\u00e1n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 159
+},
+{
+    "fields": {
+        "nombre": "San Crist\u00f3bal",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 160
+},
+{
+    "fields": {
+        "nombre": "San Estanislao",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 161
+},
+{
+    "fields": {
+        "nombre": "San Ignacio",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 162
+},
+{
+    "fields": {
+        "nombre": "San Joaqu\u00edn",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 163
+},
+{
+    "fields": {
+        "nombre": "San Jos\u00e9 de los Arroyos",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 164
+},
+{
+    "fields": {
+        "nombre": "San Jos\u00e9 Obrero",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 165
+},
+{
+    "fields": {
+        "nombre": "San Juan Bautista",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 166
+},
+{
+    "fields": {
+        "nombre": "San Juan Bautista de \u00d1eembuc\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 167
+},
+{
+    "fields": {
+        "nombre": "San Juan del Paran\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 168
+},
+{
+    "fields": {
+        "nombre": "San Juan Nepomuceno",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 169
+},
+{
+    "fields": {
+        "nombre": "San L\u00e1zaro",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 170
+},
+{
+    "fields": {
+        "nombre": "San Lorenzo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 171
+},
+{
+    "fields": {
+        "nombre": "San Miguel",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 172
+},
+{
+    "fields": {
+        "nombre": "San Pablo",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 173
+},
+{
+    "fields": {
+        "nombre": "San Patricio",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 174
+},
+{
+    "fields": {
+        "nombre": "San Pedro de Ycuamandiy\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 175
+},
+{
+    "fields": {
+        "nombre": "San Pedro del Paran\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 176
+},
+{
+    "fields": {
+        "nombre": "San Rafael del Paran\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 177
+},
+{
+    "fields": {
+        "nombre": "San Roque G. de Santa Cruz",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 178
+},
+{
+    "fields": {
+        "nombre": "San Salvador",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 179
+},
+{
+    "fields": {
+        "nombre": "Santa Elena",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 180
+},
+{
+    "fields": {
+        "nombre": "Santa Mar\u00eda",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 181
+},
+{
+    "fields": {
+        "nombre": "Santa Rita",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 182
+},
+{
+    "fields": {
+        "nombre": "Santa Rosa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 183
+},
+{
+    "fields": {
+        "nombre": "Santa Rosa de Mbutuy",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 184
+},
+{
+    "fields": {
+        "nombre": "Santa Rosa del Monday",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 185
+},
+{
+    "fields": {
+        "nombre": "Santiago",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 186
+},
+{
+    "fields": {
+        "nombre": "Sapucai",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 187
+},
+{
+    "fields": {
+        "nombre": "Sim\u00f3n Bolivar",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 188
+},
+{
+    "fields": {
+        "nombre": "Taba\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 189
+},
+{
+    "fields": {
+        "nombre": "Tacuaras",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 190
+},
+{
+    "fields": {
+        "nombre": "Tacuat\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 191
+},
+{
+    "fields": {
+        "nombre": "Tebicuarym\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 192
+},
+{
+    "fields": {
+        "nombre": "Tobat\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 193
+},
+{
+    "fields": {
+        "nombre": "Tom\u00e1s Romero Pereira",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 194
+},
+{
+    "fields": {
+        "nombre": "Trinidad",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 195
+},
+{
+    "fields": {
+        "nombre": "Uni\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 196
+},
+{
+    "fields": {
+        "nombre": "Villa Curuguaty",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 197
+},
+{
+    "fields": {
+        "nombre": "Villa del Rosario",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 198
+},
+{
+    "fields": {
+        "nombre": "Villa Elisa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 199
+},
+{
+    "fields": {
+        "nombre": "Villa Florida",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 200
+},
+{
+    "fields": {
+        "nombre": "Villa Franca",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 201
+},
+{
+    "fields": {
+        "nombre": "Villa Hayes",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 202
+},
+{
+    "fields": {
+        "nombre": "Villa Oliva",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 203
+},
+{
+    "fields": {
+        "nombre": "Villa Ygatimi",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 204
+},
+{
+    "fields": {
+        "nombre": "Villab\u00edn",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 205
+},
+{
+    "fields": {
+        "nombre": "Villarrica",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 206
+},
+{
+    "fields": {
+        "nombre": "Villeta",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 207
+},
+{
+    "fields": {
+        "nombre": "Yabebyry",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 208
+},
+{
+    "fields": {
+        "nombre": "Yaguar\u00f3n",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 209
+},
+{
+    "fields": {
+        "nombre": "Yataity del Guair\u00e1",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 210
+},
+{
+    "fields": {
+        "nombre": "Yataity del Norte",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 211
+},
+{
+    "fields": {
+        "nombre": "Yatytay",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 212
+},
+{
+    "fields": {
+        "nombre": "Yby yau",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 213
+},
+{
+    "fields": {
+        "nombre": "Ybycu\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 214
+},
+{
+    "fields": {
+        "nombre": "Ybytim\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 215
+},
+{
+    "fields": {
+        "nombre": "Yegros",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 216
+},
+{
+    "fields": {
+        "nombre": "Ygyaz\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 217
+},
+{
+    "fields": {
+        "nombre": "Yh\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 218
+},
+{
+    "fields": {
+        "nombre": "Ypacara\u00ed",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 219
+},
+{
+    "fields": {
+        "nombre": "Ypan\u00e9",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 220
+},
+{
+    "fields": {
+        "nombre": "Ypejh\u00fa",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 221
+},
+{
+    "fields": {
+        "nombre": "Yuty",
+        "departamento": null
+    },
+    "model": "inscripciones.ciudad",
+    "pk": 222
+}
+]

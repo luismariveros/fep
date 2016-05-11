@@ -1,0 +1,12 @@
+Django==1.7
+Pillow==2.8.1
+argparse==1.2.1
+diff-match-patch==20121119
+django-bootstrap3==5.4.0
+django-import-export==0.2.6
+django-simple-captcha==0.4.5
+djangorestframework==3.1.1
+psycopg2==2.6
+six==1.9.0
+tablib==0.10.0
+wsgiref==0.1.2

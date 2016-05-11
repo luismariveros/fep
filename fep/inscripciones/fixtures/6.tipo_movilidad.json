@@ -1,0 +1,37 @@
+[
+{
+    "fields": {
+        "nombre": "Motocicleta"
+    },
+    "model": "inscripciones.tipomovilidad",
+    "pk": 1
+},
+{
+    "fields": {
+        "nombre": "Autom\u00f3vil"
+    },
+    "model": "inscripciones.tipomovilidad",
+    "pk": 2
+},
+{
+    "fields": {
+        "nombre": "Camioneta"
+    },
+    "model": "inscripciones.tipomovilidad",
+    "pk": 3
+},
+{
+    "fields": {
+        "nombre": "Cami\u00f3n"
+    },
+    "model": "inscripciones.tipomovilidad",
+    "pk": 4
+},
+{
+    "fields": {
+        "nombre": "Otros"
+    },
+    "model": "inscripciones.tipomovilidad",
+    "pk": 5
+}
+]

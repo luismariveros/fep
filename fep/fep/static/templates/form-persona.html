@@ -1,0 +1,116 @@
+{% extends 'base.html' %}
+{% load bootstrap3 %}
+
+{% block contenido %}
+    {% bootstrap_messages MENSAJE %}
+    <form id="formulario" method="post" action="" style="font-size:17px;">
+        {% csrf_token %}
+        {% bootstrap_form formulario %}
+        {% buttons %}
+            <button type="submit" class="btn btn-default">Confirmar</button>
+        {% endbuttons %}
+    </form>
+{% endblock %}
+
+{% block scripts %}
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var select_loading= $('#id_departamento_residencia').parent();
+		    var div = "<div id='loading' style='display:none'><img src='/static/img/ajax-loader.gif'/></div>" ;
+		    select_loading.append(div);
+
+            $('#id_ocupacion_otros').hide();
+            $('#id_ocupacion_otros').parent().hide();
+
+            $('#id_departamento_residencia').hide();
+            $('#id_departamento_residencia').parent().hide();
+            $('#id_departamento_residencia').val('');
+
+            // esconder id_localidad_residencia
+            $('#id_localidad_residencia').hide();
+            $('#id_localidad_residencia').parent().hide();
+            $('#id_localidad_residencia').val('');
+
+            // esconder id_ciudad_residencia
+            $('#id_ciudad_residencia').hide();
+            $('#id_ciudad_residencia').parent().hide();
+            $('#id_ciudad_residencia').val('');
+
+            //si elige una ocupación de la lista esconder el campo de otra ocupación
+            $('#id_ocupacion').change(function(){
+                var opcion = $('#id_ocupacion option:selected').text();
+
+                if(opcion == '' || opcion.toUpperCase() == 'OTRO' || opcion.toUpperCase() == 'OTRA'){
+                    $('#id_ocupacion_otros').show();
+                    $('#id_ocupacion_otros').parent().show();
+                }else{
+                    $('#id_ocupacion_otros').hide();
+                    $('#id_ocupacion_otros').parent().hide();
+                }
+            });
+
+             $('#id_departamento_residencia').change(function(){
+                $('#id_localidad_residencia').empty();
+                if ($('#id_departamento_residencia').val() != ''){
+                    $("#loading").show();
+                    var url = "http://www.franciscoenparaguay.org:80/departamentos/";
+                    var localidad = "/localidades/";
+                    url = url + $('#id_departamento_residencia').val() + localidad
+                    $.getJSON(url,
+                            {
+                                format: "json"
+                            })
+                            .done(function( data ) {
+                                $("#loading").hide();
+                                var select = $('#id_localidad_residencia');
+                                $.each(data, function(i){
+                                    var row = $('<option>'+ data[i].nombre +'</option>').val(data[i].id);
+                                    select.append(row);
+                                });
+                            });
+                }
+            });
+
+            $('#id_pais_residencia').change(function(){
+
+                if($('#id_pais_residencia').val() != 'PY'){
+                    // esconder id_departamento_residencia
+                    $('#id_departamento_residencia').hide();
+                    $('#id_departamento_residencia').parent().hide();
+                    $('#id_departamento_residencia').val('');
+
+                    // esconder id_localidad_residencia
+                    $('#id_localidad_residencia').hide();
+                    $('#id_localidad_residencia').parent().hide();
+                    $('#id_localidad_residencia').val('');
+
+                    // esconder id_ciudad_residencia
+                    $('#id_ciudad_residencia').hide();
+                    $('#id_ciudad_residencia').parent().hide();
+                    $('#id_ciudad_residencia').val('');
+
+                    //mostrar direccion en Paraguay
+                    $('#id_direccion_paraguay').show();
+                    $('#id_direccion_paraguay').parent().show();
+                }else{
+                    //mostrar id_departamento_residencia
+                    $('#id_departamento_residencia').show();
+                    $('#id_departamento_residencia').parent().show();
+
+                    //mostrar id_localidad_residencia
+                    $('#id_localidad_residencia').show();
+                    $('#id_localidad_residencia').parent().show();
+
+                    //mostrar id_ciudad_residencia
+                    $('#id_ciudad_residencia').show();
+                    $('#id_ciudad_residencia').parent().show();
+
+                    //esconder id_direccion_paraguay
+                    $('#id_direccion_paraguay').hide();
+                    $('#id_direccion_paraguay').parent().hide();
+                    $('#id_direccion_paraguay').val('');
+                }
+            });
+        });
+    </script>
+{% endblock %}
